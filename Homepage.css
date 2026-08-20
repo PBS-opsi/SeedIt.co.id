@@ -1,0 +1,8 @@
+display: flex;
+width: 1538px;
+min-width: 10px;
+flex-direction: column;
+align-items: center;
+gap: 30px;
+
+background: var(--PRIMARY-2, #F0EADC);
